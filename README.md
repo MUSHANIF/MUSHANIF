@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on **Rakes46**
-
 - 💬 Ask me about **Laravel ,php**
 
 - 📫 How to reach me **hanifmusthafa2005@gmail.com**
