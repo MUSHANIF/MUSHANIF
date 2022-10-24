@@ -1,4 +1,4 @@
-<img height="100" width="100" align="center" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/hello.gif" /> <h1 align="center">Hi 👋, I'm Musthafa hanif</h1>
+ <h1 align="center"><img height="60" width="60" align="center" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/hello.gif" /> 👋, I'm Musthafa hanif</h1>
 
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
