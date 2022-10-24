@@ -1,5 +1,5 @@
 <img height="60" width="60" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/hello.gif" /> <h1 align="center">Hi 👋, I'm Musthafa hanif</h1>
-<img align="center"  width="350" height="100%" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/image03.gif" />
+
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushanif&label=Profile%20views&color=0e75b6&style=flat" alt="mushanif" /> </p>
@@ -28,3 +28,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mushanif&show_icons=true&locale=en" alt="mushanif" /></p>
+<img align="center"  width="350" height="100%" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/image03.gif" />
