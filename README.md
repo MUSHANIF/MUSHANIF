@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Musthafa hanif</h1>
+<img height="60" width="60" src="https://github.com/MUSHANIF/MUSHANIF/blob/master/img/hello.gif" /> <h1 align="center">Hi 👋, I'm Musthafa hanif</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushanif&label=Profile%20views&color=0e75b6&style=flat" alt="mushanif" /> </p>
