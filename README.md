@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mushanif&show_icons=true&locale=en" alt="mushanif" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bon1ttbitlukhy9xx0qij5kzu&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bon1ttbitlukhy9xx0qij5kzu&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)</p>
