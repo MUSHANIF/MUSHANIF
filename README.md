@@ -1,5 +1,5 @@
 <div>
-<img align="center"  width="500" height="200" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/duck.gif" />
+<img align="center"  width="1000" height="200" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/duck.gif" />
 </div>
  <h1 align="center"><img height="60" width="60" align="center" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/hello.gif" /> 👋, I'm Musthafa hanif</h1>
 
