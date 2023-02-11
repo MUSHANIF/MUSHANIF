@@ -1,7 +1,7 @@
 <div>
 <img align="center"  width="1100" height="250" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/duck.gif" />
 </div>
- <h1 align="center"><img height="60" width="60" align="center" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/hello.gif" /> 👋, I'm Musthafa hanif</h1>
+ <h1 align="center"><img height="60" width="60" align="center" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/hello.gif" /> 👋, I'm Musthafa hanif</h1><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" />
 
 <h3 align="center">Hanya seorang yang selalu berusaha memperbaiki diri agar menjadi lebih baik</h3>
 
