@@ -37,4 +37,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mushanif&show_icons=true&locale=en" alt="mushanif" /></p>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=bon1ttbitlukhy9xx0qij5kzu&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div> 
+<html>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</html>
