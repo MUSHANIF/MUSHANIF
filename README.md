@@ -4,6 +4,8 @@
  <h1 align="center"><img height="60" width="60" align="center" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/hello.gif" /> I'm Musthafa hanif  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 </h1>
 <h3 align="center">Hanya seorang yang selalu berusaha memperbaiki diri agar menjadi lebih baik</h3>
+<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="musthafa-hanif-3a6073263" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/musthafa-hanif-3a6073263?trk=profile-badge">Musthafa Hanif</a></div>
+              
 <h3 align="center">✨<a href="www.linkedin.com/in/musthafaH">LinkedIn</a>✨</h3>
 <h3 align="center">✨<a href="https://mushanif.github.io/musthafahanif.github.io/">Coba lihat portofolio saya!</a>✨</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushanif&label=Profile%20views&color=0e75b6&style=flat" alt="mushanif" /> </p>
