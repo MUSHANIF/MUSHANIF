@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">Hanya seorang yang selalu berusaha memperbaiki diri agar menjadi lebih baik</h3>
 
-<h3 align="center">✨<a href="www.linkedin.com/in/musthafah">LinkedIn</a>✨</h3>
+<h3 align="center">✨<a href="https://www.linkedin.com/in/musthafa-hanif-3a6073263/">LinkedIn</a>✨</h3>
 <h3 align="center">✨<a href="https://mushanif.github.io/musthafahanif.github.io/">Coba lihat portofolio saya!</a>✨</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushanif&label=Profile%20views&color=0e75b6&style=flat" alt="mushanif" /> </p>
 
