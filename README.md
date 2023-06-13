@@ -11,8 +11,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mushanif" alt="mushanif" /></a> </p>
 
-- 🔭 I’m currently working on **Camoet**
-<img align="right"  width="350" height="100%" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/image03.gif" />
+- 🔭 I'm currently working at PT DATA TEKNOLOGI TERINTEGRASI
+<img align="right"  width="350" height="100%" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/image03.gif" ></img>
 - 🌱 I’m currently learning **Laravel**
 
 
