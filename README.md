@@ -1,5 +1,4 @@
-<div style="background-image: linear-gradient(225deg, #0070e1 0, #006de7 7.14%, #0069eb 14.29%, #0064ec 21.43%, #005eea 28.57%, #0056e5 35.71%, #004dde 42.86%, #4d42d4 50%, #7234c8 57.14%, #8d20ba 64.29%, #a100ab 71.43%, #b0009a 78.57%, #bc0089 85.71%, #c50077 92.86%, #cb0065 100%);
-      transition: background-image 1s ease-in-out, opacity 1s ease-in-out;">
+<div style="background-image: #006de7;">
 <div>
 <img align="center"  width="1100" height="250" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/duck.gif" />
 </div>
