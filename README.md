@@ -1,4 +1,4 @@
-<div style="background-image: #006de7;">
+<div style="background-color: red;">
 <div>
 <img align="center"  width="1100" height="250" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/duck.gif" />
 </div>
