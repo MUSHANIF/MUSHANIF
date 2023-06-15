@@ -36,8 +36,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mushanif&show_icons=true&locale=en" alt="mushanif" /></p>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=bon1ttbitlukhy9xx0qij5kzu&cover_image=true&theme=default&show_offline=false&background_color="radial-gradient(circle at -4.17% 95.45%, #ff99ff 0, #b779ff 25%, #5353f2 50%, #002ea7 75%, #001067 100%)"/></div> 
- 
-[![Spotify Playlist](https://image-url.com/playlist-image.jpg)](https://open.spotify.com/embed/playlist/5ATwFCdcL9UGpKeJwMASFw?utm_source=generator&theme=0)
+<div align="center"><a href="https://open.spotify.com/embed/playlist/5ATwFCdcL9UGpKeJwMASFw?utm_source=generator&theme=0"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=bon1ttbitlukhy9xx0qij5kzu&cover_image=true&theme=default&show_offline=false&background_color=443C68/></a></div> 
+
 
 
