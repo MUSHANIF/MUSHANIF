@@ -16,7 +16,7 @@
   
 - 🔭 I'm currently working at **PT DATA TEKNOLOGI TERINTEGRASI**
 <img align="right"  width="350" height="100%" src="https://github.com/MUSHANIF/MUSHANIF/blob/main/img/image03.gif" ></img>
-- 🌱 I’m currently learning **Laravel, Vue js , React Js, R**
+- 🌱 I’m currently learning **Laravel, Vue js , React Js, R , Python**
 
 
 - 💬 Ask me about **Laravel ,php**
